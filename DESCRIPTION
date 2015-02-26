@@ -1,0 +1,10 @@
+Package: frapmm
+Title: Nonlinear mixed model for a series of FRAP images
+Version: 0.1
+Author: Martina Feilke
+Maintainer: Martina Feilke <martina.feilke@stat.uni-muenchen.de>
+Description: Fit a nonlinear mixed model to data from a series of FRAP images, i.e., FRAP images of various similar nuclei
+Depends:
+    R (>= 3.1.1)
+License: GPL (>= 2)
+LazyData: false
