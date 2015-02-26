@@ -8,5 +8,6 @@ Nonlinear mixed model for a series of FRAP images. With frapmm nonlinear mixed m
   devtools::install_github("feilke/frapmm")
   ```
 
-- Minimal working example including data simulation: 
+- Minimal working example including data simulation available: 
+
   example_code.R
