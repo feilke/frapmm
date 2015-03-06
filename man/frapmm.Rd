@@ -4,9 +4,9 @@
 \name{frapmm}
 \alias{frapmm}
 \alias{frapmm-package}
-\title{frapmm - Nonlinear mixed model for a series of FRAP images}
+\title{frapmm - Bayesian nonlinear mixed-effects model for a series of FRAP images}
 \description{
-Fit a nonlinear mixed model to data from a series of FRAP images, i.e., FRAP images of various similar nuclei.
+Fit a Bayesian nonlinear mixed-effects model to data from a series of FRAP images, i.e., FRAP images of various similar nuclei.
 }
 \details{
 Implemented methods are
